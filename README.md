@@ -108,6 +108,7 @@ api_access = true
 ---
 
 ## 💡 Notes  
+- The Gift product should have zero price set 
 - This project works **only on Shopify Plus or Developer Accounts**.  
 - Stores on **Basic, Shopify, or Advanced** plans **cannot** use Checkout UI Extensions.  
 - To test the extension locally, always use `shopify app dev`.  
